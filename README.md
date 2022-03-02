@@ -12,13 +12,17 @@
 
 ### Tecnologias para realização do projeto:
 
-- HTML
-- CSS
-- JS
-- JQUARY
+- HTML <img align="center" alt="tito-HTML" height="15" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+- CSS <img align="center" alt="tito-CSS" height="15" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+- JS <img align="center" alt="tito-JS" height="15" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+- JQUARY <img  align="center" alt="" height="15" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg">
+
+
+
+
 
 ### AUTORIA 
 ###### ITALO DE SOUSA
 
-<p>Linkedin: https://www.linkedin.com/in/italo-chagas/ </p>
-E-mail: Ittalo.chagas@gmail.com
+<a href="https://www.linkedin.com/in/italo-chagas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:Ittalo.chagas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
